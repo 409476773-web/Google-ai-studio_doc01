@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "./rain/foundations/tailwind-theme.css";
+@import "./styles/toolbox-matrix-tokens.css";
+
+body {
+  margin: 0;
+  font-family: var(--rain-font-ui);
+  background-color: var(--rain-matrix-canvas-bg);
+  color: var(--rain-color-text-primary);
+  -webkit-font-smoothing: antialiased;
+}

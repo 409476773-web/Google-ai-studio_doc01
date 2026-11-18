@@ -1,0 +1,6 @@
+{
+  "name": "雨课堂百宝箱发布矩阵",
+  "description": "通过“班级 × 工具”矩阵按工具或按分组建立或解除百宝箱工具开放关系。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
